@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gayatri Pant, a graduate student at Youngstown State University.
 - 👀 I’m interested in learning about Data.
 - 🌱 I’m currently learning Mathematics with specialization in Statistics.
-- 💞️ I’m looking to collaborate on Data Analyst.
+- 💞️ I’m looking to collaborate on Data Analyst field.
 - 📫 Reach me by email.
 
 <!---
